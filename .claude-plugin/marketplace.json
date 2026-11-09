@@ -1,0 +1,16 @@
+{
+  "name": "short-video-tools",
+  "owner": {
+    "name": "Short Video Skills"
+  },
+  "metadata": {
+    "description": "A guide to the best animation and video skill packs for Claude."
+  },
+  "plugins": [
+    {
+      "name": "short-video-skills",
+      "source": "./",
+      "description": "Helps you choose and safely install the most popular animation and video skill packs for TikToks, Reels and YouTube Shorts."
+    }
+  ]
+}
